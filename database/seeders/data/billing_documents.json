@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Factura",
+        "code": "01",
+        "status": 1
+    },
+    {
+        "name": "Comprobante de crédito fiscal",
+        "code": "03",
+        "status": 1
+    },
+    {
+        "name": "Nota de remisión",
+        "code": "04",
+        "status": 0
+    },
+    {
+        "name": "Nota de crédito",
+        "code": "05",
+        "status": 0
+    },
+    {
+        "name": "Nota de débito",
+        "code": "06",
+        "status": 0
+    },
+    {
+        "name": "Comprobante de retención",
+        "code": "07",
+        "status": 0
+    },
+    {
+        "name": "Comprobante de liquidación",
+        "code": "08",
+        "status": 0
+    },
+    {
+        "name": "Documento contable de liquidación",
+        "code": "09",
+        "status": 0
+    },
+    {
+        "name": "Factura de exportación",
+        "code": "11",
+        "status": 0
+    },
+    {
+        "name": "Factura de sujeto excluido",
+        "code": "14",
+        "status": 1
+    },
+    {
+        "name": "Comprobante de donación",
+        "code": "15",
+        "status": 0
+    }
+]

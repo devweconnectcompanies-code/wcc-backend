@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Carnet de residente",
+        "code": "02"
+    },
+    {
+        "name": "Pasaporte",
+        "code": "03"
+    },
+    {
+        "name": "DUI",
+        "code": "13"
+    },
+    {
+        "name": "NIT",
+        "code": "36"
+    },
+    {
+        "name": "Otro",
+        "code": "37"
+    }
+]

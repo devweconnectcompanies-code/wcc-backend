@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Ahuachapán Norte",
+        "code": 13,
+        "state": 1
+    },
+    {
+        "name": "Ahuachapán Centro",
+        "code": 14,
+        "state": 1
+    },
+    {
+        "name": "Ahuachapán Sur",
+        "code": 15,
+        "state": 1
+    },
+    {
+        "name": "Santa Ana Norte",
+        "code": 14,
+        "state": 2
+    },
+    {
+        "name": "Santa Ana Centro",
+        "code": 15,
+        "state": 2
+    },
+    {
+        "name": "Santa Ana Este",
+        "code": 16,
+        "state": 2
+    },
+    {
+        "name": "Santa Ana Oeste",
+        "code": 17,
+        "state": 2
+    },
+    {
+        "name": "Sonsonate Norte",
+        "code": 17,
+        "state": 3
+    },
+    {
+        "name": "Sonsonate Centro",
+        "code": 18,
+        "state": 3
+    },
+    {
+        "name": "Sonsonate Este",
+        "code": 19,
+        "state": 3
+    },
+    {
+        "name": "Sonsonate Oeste",
+        "code": 20,
+        "state": 3
+    },
+    {
+        "name": "Chalatenango Norte",
+        "code": 34,
+        "state": 4
+    },
+    {
+        "name": "Chalatenango Centro",
+        "code": 35,
+        "state": 4
+    },
+    {
+        "name": "Chalatenango Sur",
+        "code": 36,
+        "state": 4
+    },
+    {
+        "name": "La Libertad Norte",
+        "code": 23,
+        "state": 5
+    },
+    {
+        "name": "La Libertad Centro",
+        "code": 24,
+        "state": 5
+    },
+    {
+        "name": "La Libertad Oeste",
+        "code": 25,
+        "state": 5
+    },
+    {
+        "name": "La Libertad Este",
+        "code": 26,
+        "state": 5
+    },
+    {
+        "name": "La Libertad Costa",
+        "code": 27,
+        "state": 5
+    },
+    {
+        "name": "La Libertad Sur",
+        "code": 28,
+        "state": 5
+    },
+    {
+        "name": "San Salvador Norte",
+        "code": 20,
+        "state": 6
+    },
+    {
+        "name": "San Salvador Oeste",
+        "code": 21,
+        "state": 6
+    },
+    {
+        "name": "San Salvador Este",
+        "code": 22,
+        "state": 6
+    },
+    {
+        "name": "San Salvador Centro",
+        "code": 23,
+        "state": 6
+    },
+    {
+        "name": "San Salvador Sur",
+        "code": 24,
+        "state": 6
+    },
+    {
+        "name": "Cuscatlán Norte",
+        "code": 17,
+        "state": 7
+    },
+    {
+        "name": "Cuscatlán Sur",
+        "code": 18,
+        "state": 7
+    },
+    {
+        "name": "La Paz Oeste",
+        "code": 23,
+        "state": 8
+    },
+    {
+        "name": "La Paz Centro",
+        "code": 24,
+        "state": 8
+    },
+    {
+        "name": "La Paz Este",
+        "code": 25,
+        "state": 8
+    },
+    {
+        "name": "Cabañas Oeste",
+        "code": 10,
+        "state": 9
+    },
+    {
+        "name": "Cabañas Este",
+        "code": 11,
+        "state": 9
+    },
+    {
+        "name": "San Vicente Norte",
+        "code": 14,
+        "state": 10
+    },
+    {
+        "name": "San Vicente Sur",
+        "code": 15,
+        "state": 10
+    },
+    {
+        "name": "Usulután Norte",
+        "code": 24,
+        "state": 11
+    },
+    {
+        "name": "Usulután Este",
+        "code": 25,
+        "state": 11
+    },
+    {
+        "name": "Usulután Oeste",
+        "code": 26,
+        "state": 11
+    },
+    {
+        "name": "San Miguel Norte",
+        "code": 21,
+        "state": 12
+    },
+    {
+        "name": "San Miguel Centro",
+        "code": 22,
+        "state": 12
+    },
+    {
+        "name": "San Miguel Oeste",
+        "code": 23,
+        "state": 12
+    },
+    {
+        "name": "Morazán Norte",
+        "code": 27,
+        "state": 13
+    },
+    {
+        "name": "Morazán Sur",
+        "code": 28,
+        "state": 13
+    },
+    {
+        "name": "La Unión Norte",
+        "code": 19,
+        "state": 14
+    },
+    {
+        "name": "La Unión Sur",
+        "code": 20,
+        "state": 14
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Instalación",
+        "color": "blue-10"
+    },
+    {
+        "name": "Internet",
+        "color": "cyan-10"
+    },
+    {
+        "name": "IPTV",
+        "color": "blue-grey-10"
+    },
+    {
+        "name": "Cambio de domicilio",
+        "color": "indigo-10"
+    },
+    {
+        "name": "Renovación",
+        "color": "green-10"
+    },
+    {
+        "name": "Desinstalación",
+        "color": "red-10"
+    }
+]

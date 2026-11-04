@@ -1,0 +1,23 @@
+{
+    "garamond": {
+        "normal": "garamond_normal_effb4d2b0e1ec8968247c363eddac020"
+    },
+    "bodoni": {
+        "normal": "bodoni_normal_22ea131f3d08c1e570d44aa71490197e"
+    },
+    "didot": {
+        "normal": "didot_normal_7948180bb3d38da022befae9a80e7422"
+    },
+    "lora": {
+        "normal": "lora_normal_8fdd0fb2b16f68f199b3e065897385c7"
+    },
+    "montserrat": {
+        "normal": "montserrat_normal_481df7bf5e9c33fb5fe39bbb8eb92bd5"
+    },
+    "raleway": {
+        "normal": "raleway_normal_df2cfe3992020919c998c7da3a6212b9"
+    },
+    "calibri": {
+        "normal": "calibri_normal_d9e906a5b119de7d3f257e661c654297"
+    }
+}

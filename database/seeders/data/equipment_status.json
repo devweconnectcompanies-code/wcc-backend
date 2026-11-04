@@ -1,0 +1,42 @@
+[
+    {
+        "name": "En bodega",
+        "description": "El equipo está encendido pero no está en uso activo.",
+        "color": "#52796f"
+    },
+    {
+        "name": "En Ruta",
+        "description": "El equipo está fuera de servicio para reparaciones o mantenimiento programado.",
+        "color": "#014f86"
+    },
+    {
+        "name": "Operativo",
+        "description": "El equipo esta siendo evaluado o probado.",
+        "color": "#538d22"
+    },
+    {
+        "name": "Desconectado",
+        "description": "El equipo no está conectado a la fuente de energía o red.",
+        "color": "#b5179e"
+    },
+    {
+        "name": "Vendido",
+        "description": "El equipo está en proceso de actualización de software o firmware.",
+        "color": "#1b4332"
+    },
+    {
+        "name": "Robado",
+        "description": "El equipo está operando por encima de su capacidad recomendada.",
+        "color": "#b130db"
+    },
+    {
+        "name": "Desconocido",
+        "description": "El equipo está en proceso de reinicio.",
+        "color": "#415a77"
+    },
+    {
+        "name": "Dañado",
+        "description": "El equipo está siendo configurado o ajustado.",
+        "color": "#c1121f"
+    }
+]

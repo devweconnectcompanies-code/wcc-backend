@@ -1,0 +1,1414 @@
+{
+    "departments": [
+        {
+            "name": "Ahuachapán",
+            "code": "01",
+            "iso": "SV-AH",
+            "municipalities": [
+                {
+                    "name": "Ahuachapán Norte",
+                    "code": 13,
+                    "districts": [
+                        {
+                            "name": "Atiquizaya",
+                            "code": "03"
+                        },
+                        {
+                            "name": "El Refugio",
+                            "code": "05"
+                        },
+                        {
+                            "name": "San Lorenzo",
+                            "code": "09"
+                        },
+                        {
+                            "name": "Turín",
+                            "code": "12"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ahuachapán Centro",
+                    "code": 14,
+                    "districts": [
+                        {
+                            "name": "Ahuachapán",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Apaneca",
+                            "code": "02"
+                        },
+                        {
+                            "name": "Concepción de Ataco",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Tacuba",
+                            "code": "11"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ahuachapán Sur",
+                    "code": 15,
+                    "districts": [
+                        {
+                            "name": "Guaymango",
+                            "code": "06"
+                        },
+                        {
+                            "name": "Jujutla",
+                            "code": "07"
+                        },
+                        {
+                            "name": "San Francisco Menéndez",
+                            "code": "08"
+                        },
+                        {
+                            "name": "San Pedro Puxtla",
+                            "code": "10"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Santa Ana",
+            "code": "02",
+            "iso": "SV-SA",
+            "municipalities": [
+                {
+                    "name": "Santa Ana Norte",
+                    "code": 14,
+                    "districts": [
+                        {
+                            "name": "Masahuat",
+                            "code": "06"
+                        },
+                        {
+                            "name": "Metapán",
+                            "code": "07"
+                        },
+                        {
+                            "name": "Santa Rosa Guachipilín",
+                            "code": "11"
+                        },
+                        {
+                            "name": "Texistepeque",
+                            "code": "13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Santa Ana Centro",
+                    "code": 15,
+                    "districts": [
+                        {
+                            "name": "Santa Ana",
+                            "code": "10"
+                        }
+                    ]
+                },
+                {
+                    "name": "Santa Ana Este",
+                    "code": 16,
+                    "districts": [
+                        {
+                            "name": "Coatepeque",
+                            "code": "02"
+                        },
+                        {
+                            "name": "El Congo",
+                            "code": "04"
+                        }
+                    ]
+                },
+                {
+                    "name": "Santa Ana Oeste",
+                    "code": 17,
+                    "districts": [
+                        {
+                            "name": "Candelaria de la Frontera",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Chalchuapa",
+                            "code": "03"
+                        },
+                        {
+                            "name": "El Porvenir",
+                            "code": "05"
+                        },
+                        {
+                            "name": "San Antonio Pajonal",
+                            "code": "08"
+                        },
+                        {
+                            "name": "San Sebastián Salitrillo",
+                            "code": "09"
+                        },
+                        {
+                            "name": "Santiago de la Frontera",
+                            "code": "12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sonsonate",
+            "code": "03",
+            "iso": "SV-SO",
+            "municipalities": [
+                {
+                    "name": "Sonsonate Norte",
+                    "code": 17,
+                    "districts": [
+                        {
+                            "name": "Juayúa",
+                            "code": "07"
+                        },
+                        {
+                            "name": "Nahuizalco",
+                            "code": "08"
+                        },
+                        {
+                            "name": "Salcoatitán",
+                            "code": "10"
+                        },
+                        {
+                            "name": "Santa Catarina Masahuat",
+                            "code": "13"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sonsonate Centro",
+                    "code": 18,
+                    "districts": [
+                        {
+                            "name": "Nahulingo",
+                            "code": "09"
+                        },
+                        {
+                            "name": "San Antonio del Monte",
+                            "code": "11"
+                        },
+                        {
+                            "name": "Santo Domingo de Guzmán",
+                            "code": "14"
+                        },
+                        {
+                            "name": "Sonsonate",
+                            "code": "15"
+                        },
+                        {
+                            "name": "Sonzacate",
+                            "code": "16"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sonsonate Este",
+                    "code": 19,
+                    "districts": [
+                        {
+                            "name": "Armenia",
+                            "code": "02"
+                        },
+                        {
+                            "name": "Caluco",
+                            "code": "03"
+                        },
+                        {
+                            "name": "Cuisnahuat",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Izalco",
+                            "code": "06"
+                        },
+                        {
+                            "name": "San Julián",
+                            "code": "12"
+                        },
+                        {
+                            "name": "Santa Isabel Ishuatán",
+                            "code": "05"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sonsonate Oeste",
+                    "code": 20,
+                    "districts": [
+                        {
+                            "name": "Acajutla",
+                            "code": "01"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Chalatenango",
+            "code": "04",
+            "iso": "SV-CH",
+            "municipalities": [
+                {
+                    "name": "Chalatenango Norte",
+                    "code": 34,
+                    "districts": [
+                        {
+                            "name": "Citalá",
+                            "code": "04"
+                        },
+                        {
+                            "name": "La Palma",
+                            "code": "12"
+                        },
+                        {
+                            "name": "San Ignacio",
+                            "code": "25"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chalatenango Centro",
+                    "code": 35,
+                    "districts": [
+                        {
+                            "name": "Agua Caliente",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Dulce Nombre de María",
+                            "code": "08"
+                        },
+                        {
+                            "name": "El Paraíso",
+                            "code": "10"
+                        },
+                        {
+                            "name": "La Reina",
+                            "code": "13"
+                        },
+                        {
+                            "name": "Nueva Concepción",
+                            "code": "16"
+                        },
+                        {
+                            "name": "San Fernando",
+                            "code": "22"
+                        },
+                        {
+                            "name": "San Francisco Morazán",
+                            "code": "24"
+                        },
+                        {
+                            "name": "San Rafael",
+                            "code": "31"
+                        },
+                        {
+                            "name": "Santa Rita",
+                            "code": "32"
+                        },
+                        {
+                            "name": "Tejutla",
+                            "code": "33"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chalatenango Sur",
+                    "code": 36,
+                    "districts": [
+                        {
+                            "name": "Arcatao",
+                            "code": "02"
+                        },
+                        {
+                            "name": "Azacualpa",
+                            "code": "03"
+                        },
+                        {
+                            "name": "Chalatenango",
+                            "code": "07"
+                        },
+                        {
+                            "name": "Comalapa",
+                            "code": "05"
+                        },
+                        {
+                            "name": "Concepción Quezaltepeque",
+                            "code": "06"
+                        },
+                        {
+                            "name": "El Carrizal",
+                            "code": "09"
+                        },
+                        {
+                            "name": "La Laguna",
+                            "code": "11"
+                        },
+                        {
+                            "name": "Las Vueltas",
+                            "code": "14"
+                        },
+                        {
+                            "name": "Nombre de Jesús",
+                            "code": "15"
+                        },
+                        {
+                            "name": "Nueva Trinidad",
+                            "code": "17"
+                        },
+                        {
+                            "name": "Ojos de Agua",
+                            "code": "18"
+                        },
+                        {
+                            "name": "Potonico",
+                            "code": "19"
+                        },
+                        {
+                            "name": "San Antonio de la Cruz",
+                            "code": "20"
+                        },
+                        {
+                            "name": "San Antonio Los Ranchos",
+                            "code": "21"
+                        },
+                        {
+                            "name": "San Francisco Lempa",
+                            "code": "23"
+                        },
+                        {
+                            "name": "San Isidro Labrador",
+                            "code": "26"
+                        },
+                        {
+                            "name": "San José Cancasque (Cancasque)",
+                            "code": "27"
+                        },
+                        {
+                            "name": "San José Las Flores / Las Flores",
+                            "code": "28"
+                        },
+                        {
+                            "name": "San Luis del Carmen",
+                            "code": "29"
+                        },
+                        {
+                            "name": "San Miguel de Mercedes",
+                            "code": "30"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La Libertad",
+            "code": "05",
+            "iso": "SV-LI",
+            "municipalities": [
+                {
+                    "name": "La Libertad Norte",
+                    "code": 23,
+                    "districts": [
+                        {
+                            "name": "Quezaltepeque",
+                            "code": "12"
+                        },
+                        {
+                            "name": "San Matías",
+                            "code": "16"
+                        },
+                        {
+                            "name": "San Pablo Tacachico",
+                            "code": "17"
+                        }
+                    ]
+                },
+                {
+                    "name": "La Libertad Centro",
+                    "code": 24,
+                    "districts": [
+                        {
+                            "name": "Ciudad Arce",
+                            "code": "02"
+                        },
+                        {
+                            "name": "San Juan Opico",
+                            "code": "15"
+                        }
+                    ]
+                },
+                {
+                    "name": "La Libertad Oeste",
+                    "code": 25,
+                    "districts": [
+                        {
+                            "name": "Colón",
+                            "code": "03"
+                        },
+                        {
+                            "name": "Jayaque",
+                            "code": "07"
+                        },
+                        {
+                            "name": "Sacacoyo",
+                            "code": "13"
+                        },
+                        {
+                            "name": "Talnique",
+                            "code": "19"
+                        },
+                        {
+                            "name": "Tepecoyo",
+                            "code": "21"
+                        }
+                    ]
+                },
+                {
+                    "name": "La Libertad Este",
+                    "code": 26,
+                    "districts": [
+                        {
+                            "name": "Antiguo Cuscatlán",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Huizúcar",
+                            "code": "06"
+                        },
+                        {
+                            "name": "Nuevo Cuscatlán",
+                            "code": "10"
+                        },
+                        {
+                            "name": "San José Villanueva",
+                            "code": "14"
+                        },
+                        {
+                            "name": "Zaragoza",
+                            "code": "22"
+                        }
+                    ]
+                },
+                {
+                    "name": "La Libertad Costa",
+                    "code": 27,
+                    "districts": [
+                        {
+                            "name": "Chiltiupán",
+                            "code": "05"
+                        },
+                        {
+                            "name": "Jicalapa",
+                            "code": "08"
+                        },
+                        {
+                            "name": "La Libertad",
+                            "code": "09"
+                        },
+                        {
+                            "name": "Tamanique",
+                            "code": "18"
+                        },
+                        {
+                            "name": "Teotepeque",
+                            "code": "20"
+                        }
+                    ]
+                },
+                {
+                    "name": "La Libertad Sur",
+                    "code": 28,
+                    "districts": [
+                        {
+                            "name": "Comasagua",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Santa Tecla",
+                            "code": "11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "San Salvador",
+            "code": "06",
+            "iso": "SV-SS",
+            "municipalities": [
+                {
+                    "name": "San Salvador Norte",
+                    "code": 20,
+                    "districts": [
+                        {
+                            "name": "Aguilares",
+                            "code": "01"
+                        },
+                        {
+                            "name": "El Paisnal",
+                            "code": "05"
+                        },
+                        {
+                            "name": "Guazapa",
+                            "code": "06"
+                        }
+                    ]
+                },
+                {
+                    "name": "San Salvador Oeste",
+                    "code": 21,
+                    "districts": [
+                        {
+                            "name": "Apopa",
+                            "code": "02"
+                        },
+                        {
+                            "name": "Nejapa",
+                            "code": "09"
+                        }
+                    ]
+                },
+                {
+                    "name": "San Salvador Este",
+                    "code": 22,
+                    "districts": [
+                        {
+                            "name": "Ilopango",
+                            "code": "07"
+                        },
+                        {
+                            "name": "San Martín",
+                            "code": "13"
+                        },
+                        {
+                            "name": "Soyapango",
+                            "code": "17"
+                        },
+                        {
+                            "name": "Tonacatepeque",
+                            "code": "18"
+                        }
+                    ]
+                },
+                {
+                    "name": "San Salvador Centro",
+                    "code": 23,
+                    "districts": [
+                        {
+                            "name": "Ayutuxtepeque",
+                            "code": "03"
+                        },
+                        {
+                            "name": "Ciudad Delgado",
+                            "code": "19"
+                        },
+                        {
+                            "name": "Cuscatancingo",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Mejicanos",
+                            "code": "08"
+                        },
+                        {
+                            "name": "San Salvador",
+                            "code": "14"
+                        }
+                    ]
+                },
+                {
+                    "name": "San Salvador Sur",
+                    "code": 24,
+                    "districts": [
+                        {
+                            "name": "Panchimalco",
+                            "code": "10"
+                        },
+                        {
+                            "name": "Rosario de Mora",
+                            "code": "11"
+                        },
+                        {
+                            "name": "San Marcos",
+                            "code": "12"
+                        },
+                        {
+                            "name": "Santiago Texacuangos",
+                            "code": "15"
+                        },
+                        {
+                            "name": "Santo Tomás",
+                            "code": "16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cuscatlán",
+            "code": "07",
+            "iso": "SV-CU",
+            "municipalities": [
+                {
+                    "name": "Cuscatlán Norte",
+                    "code": 17,
+                    "districts": [
+                        {
+                            "name": "Oratorio de Concepción",
+                            "code": "06"
+                        },
+                        {
+                            "name": "San Bartolomé Perulapía",
+                            "code": "07"
+                        },
+                        {
+                            "name": "San José Guayabal",
+                            "code": "09"
+                        },
+                        {
+                            "name": "San Pedro Perulapán",
+                            "code": "10"
+                        },
+                        {
+                            "name": "Suchitoto",
+                            "code": "15"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cuscatlán Sur",
+                    "code": 18,
+                    "districts": [
+                        {
+                            "name": "Candelaria",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Cojutepeque",
+                            "code": "02"
+                        },
+                        {
+                            "name": "El Carmen",
+                            "code": "03"
+                        },
+                        {
+                            "name": "El Rosario",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Monte San Juan",
+                            "code": "05"
+                        },
+                        {
+                            "name": "San Cristóbal",
+                            "code": "08"
+                        },
+                        {
+                            "name": "San Rafael Cedros",
+                            "code": "11"
+                        },
+                        {
+                            "name": "San Ramón",
+                            "code": "12"
+                        },
+                        {
+                            "name": "Santa Cruz Analquito",
+                            "code": "13"
+                        },
+                        {
+                            "name": "Santa Cruz Michapa",
+                            "code": "14"
+                        },
+                        {
+                            "name": "Tenancingo",
+                            "code": "16"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La Paz",
+            "code": "08",
+            "iso": "SV-PA",
+            "municipalities": [
+                {
+                    "name": "La Paz Oeste",
+                    "code": 23,
+                    "districts": [
+                        {
+                            "name": "Cuyultitán",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Olocuilta",
+                            "code": "05"
+                        },
+                        {
+                            "name": "San Francisco Chinameca",
+                            "code": "09"
+                        },
+                        {
+                            "name": "San Juan Talpa",
+                            "code": "11"
+                        },
+                        {
+                            "name": "San Luis Talpa",
+                            "code": "13"
+                        },
+                        {
+                            "name": "San Pedro Masahuat",
+                            "code": "15"
+                        },
+                        {
+                            "name": "Tapalhuaca",
+                            "code": "20"
+                        }
+                    ]
+                },
+                {
+                    "name": "La Paz Centro",
+                    "code": 24,
+                    "districts": [
+                        {
+                            "name": "El Rosario",
+                            "code": "02"
+                        },
+                        {
+                            "name": "Jerusalén",
+                            "code": "03"
+                        },
+                        {
+                            "name": "Mercedes La Ceiba",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Paraíso de Osorio",
+                            "code": "06"
+                        },
+                        {
+                            "name": "San Antonio Masahuat",
+                            "code": "07"
+                        },
+                        {
+                            "name": "San Emigdio",
+                            "code": "08"
+                        },
+                        {
+                            "name": "San Juan Tepezontes",
+                            "code": "12"
+                        },
+                        {
+                            "name": "San Luis La Herradura",
+                            "code": "22"
+                        },
+                        {
+                            "name": "San Miguel Tepezontes",
+                            "code": "14"
+                        },
+                        {
+                            "name": "San Pedro Nonualco",
+                            "code": "16"
+                        },
+                        {
+                            "name": "Santa María Ostuma",
+                            "code": "18"
+                        },
+                        {
+                            "name": "Santiago Nonualco",
+                            "code": "19"
+                        }
+                    ]
+                },
+                {
+                    "name": "La Paz Este",
+                    "code": 25,
+                    "districts": [
+                        {
+                            "name": "San Juan Nonualco",
+                            "code": "10"
+                        },
+                        {
+                            "name": "San Rafael Obrajuelo",
+                            "code": "17"
+                        },
+                        {
+                            "name": "Zacatecoluca",
+                            "code": "21"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "code": "09",
+            "name": "Cabañas",
+            "iso": "SV-CA",
+            "municipalities": [
+                {
+                    "name": "Cabañas Oeste",
+                    "code": 10,
+                    "districts": [
+                        {
+                            "name": "Cinquera",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Ilobasco",
+                            "code": "03"
+                        },
+                        {
+                            "name": "Jutiapa",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Tejutepeque",
+                            "code": "07"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cabañas Este",
+                    "code": 11,
+                    "districts": [
+                        {
+                            "name": "Dolores",
+                            "code": "09"
+                        },
+                        {
+                            "name": "Guacotecti",
+                            "code": "02"
+                        },
+                        {
+                            "name": "San Isidro",
+                            "code": "05"
+                        },
+                        {
+                            "name": "Sensuntepeque",
+                            "code": "06"
+                        },
+                        {
+                            "name": "Victoria",
+                            "code": "08"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "San Vicente",
+            "code": "10",
+            "iso": "SV-SV",
+            "municipalities": [
+                {
+                    "name": "San Vicente Norte",
+                    "code": 14,
+                    "districts": [
+                        {
+                            "name": "Apastepeque",
+                            "code": "01"
+                        },
+                        {
+                            "name": "San Esteban Catarina",
+                            "code": "06"
+                        },
+                        {
+                            "name": "San Ildefonso",
+                            "code": "07"
+                        },
+                        {
+                            "name": "San Lorenzo",
+                            "code": "08"
+                        },
+                        {
+                            "name": "San Sebastián",
+                            "code": "09"
+                        },
+                        {
+                            "name": "Santa Clara",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Santo Domingo",
+                            "code": "05"
+                        }
+                    ]
+                },
+                {
+                    "name": "San Vicente Sur",
+                    "code": 15,
+                    "districts": [
+                        {
+                            "name": "Guadalupe",
+                            "code": "02"
+                        },
+                        {
+                            "name": "San Cayetano Istepeque",
+                            "code": "03"
+                        },
+                        {
+                            "name": "San Vicente",
+                            "code": "10"
+                        },
+                        {
+                            "name": "Tecoluca",
+                            "code": "11"
+                        },
+                        {
+                            "name": "Tepetitán",
+                            "code": "12"
+                        },
+                        {
+                            "name": "Verapaz",
+                            "code": "13"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Usulután",
+            "code": "11",
+            "iso": "SV-US",
+            "municipalities": [
+                {
+                    "name": "Usulután Norte",
+                    "code": 24,
+                    "districts": [
+                        {
+                            "name": "Alegría",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Berlín",
+                            "code": "02"
+                        },
+                        {
+                            "name": "El Triunfo",
+                            "code": "05"
+                        },
+                        {
+                            "name": "Estanzuelas",
+                            "code": "07"
+                        },
+                        {
+                            "name": "Jucuapa",
+                            "code": "09"
+                        },
+                        {
+                            "name": "Mercedes Umaña",
+                            "code": "11"
+                        },
+                        {
+                            "name": "Nueva Granada",
+                            "code": "12"
+                        },
+                        {
+                            "name": "San Buenaventura",
+                            "code": "16"
+                        },
+                        {
+                            "name": "Santiago de María",
+                            "code": "21"
+                        }
+                    ]
+                },
+                {
+                    "name": "Usulután Este",
+                    "code": 25,
+                    "districts": [
+                        {
+                            "name": "California",
+                            "code": "03"
+                        },
+                        {
+                            "name": "Concepción Batres",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Ereguayquín",
+                            "code": "06"
+                        },
+                        {
+                            "name": "Jucuarán",
+                            "code": "10"
+                        },
+                        {
+                            "name": "Ozatlán",
+                            "code": "13"
+                        },
+                        {
+                            "name": "San Dionisio",
+                            "code": "17"
+                        },
+                        {
+                            "name": "Santa Elena",
+                            "code": "18"
+                        },
+                        {
+                            "name": "Santa María",
+                            "code": "20"
+                        },
+                        {
+                            "name": "Tecapán",
+                            "code": "22"
+                        },
+                        {
+                            "name": "Usulután",
+                            "code": "23"
+                        }
+                    ]
+                },
+                {
+                    "name": "Usulután Oeste",
+                    "code": 26,
+                    "districts": [
+                        {
+                            "name": "Jiquilisco",
+                            "code": "08"
+                        },
+                        {
+                            "name": "Puerto El Triunfo",
+                            "code": "14"
+                        },
+                        {
+                            "name": "San Agustín",
+                            "code": "15"
+                        },
+                        {
+                            "name": "San Francisco Javier",
+                            "code": "19"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "San Miguel",
+            "code": "12",
+            "iso": "SV-SM",
+            "municipalities": [
+                {
+                    "name": "San Miguel Norte",
+                    "code": 21,
+                    "districts": [
+                        {
+                            "name": "Carolina",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Chapeltique",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Ciudad Barrios",
+                            "code": "02"
+                        },
+                        {
+                            "name": "Nuevo Edén de San Juan",
+                            "code": "11"
+                        },
+                        {
+                            "name": "San Antonio del Mosco",
+                            "code": "13"
+                        },
+                        {
+                            "name": "San Gerardo",
+                            "code": "14"
+                        },
+                        {
+                            "name": "San Luis de la Reina",
+                            "code": "16"
+                        },
+                        {
+                            "name": "Sesori",
+                            "code": "19"
+                        }
+                    ]
+                },
+                {
+                    "name": "San Miguel Centro",
+                    "code": 22,
+                    "districts": [
+                        {
+                            "name": "Chirilagua",
+                            "code": "06"
+                        },
+                        {
+                            "name": "Comacarán",
+                            "code": "03"
+                        },
+                        {
+                            "name": "Moncagua",
+                            "code": "09"
+                        },
+                        {
+                            "name": "Quelepa",
+                            "code": "12"
+                        },
+                        {
+                            "name": "San Miguel",
+                            "code": "17"
+                        },
+                        {
+                            "name": "Uluazapa",
+                            "code": "20"
+                        }
+                    ]
+                },
+                {
+                    "name": "San Miguel Oeste",
+                    "code": 23,
+                    "districts": [
+                        {
+                            "name": "Chinameca",
+                            "code": "05"
+                        },
+                        {
+                            "name": "El Tránsito",
+                            "code": "07"
+                        },
+                        {
+                            "name": "Lolotique",
+                            "code": "08"
+                        },
+                        {
+                            "name": "Nueva Guadalupe",
+                            "code": "10"
+                        },
+                        {
+                            "name": "San Jorge",
+                            "code": "15"
+                        },
+                        {
+                            "name": "San Rafael Oriente",
+                            "code": "18"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Morazán",
+            "code": "13",
+            "iso": "SV-MO",
+            "municipalities": [
+                {
+                    "name": "Morazán Norte",
+                    "code": 27,
+                    "districts": [
+                        {
+                            "name": "Arambala",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Cacaopera",
+                            "code": "02"
+                        },
+                        {
+                            "name": "Corinto",
+                            "code": "03"
+                        },
+                        {
+                            "name": "El Rosario",
+                            "code": "07"
+                        },
+                        {
+                            "name": "Joateca",
+                            "code": "10"
+                        },
+                        {
+                            "name": "Jocoaitique",
+                            "code": "11"
+                        },
+                        {
+                            "name": "Meanguera",
+                            "code": "14"
+                        },
+                        {
+                            "name": "Perquín",
+                            "code": "16"
+                        },
+                        {
+                            "name": "San Fernando",
+                            "code": "18"
+                        },
+                        {
+                            "name": "San Isidro",
+                            "code": "20"
+                        },
+                        {
+                            "name": "Torola",
+                            "code": "24"
+                        }
+                    ]
+                },
+                {
+                    "name": "Morazán Sur",
+                    "code": 28,
+                    "districts": [
+                        {
+                            "name": "Chilanga",
+                            "code": "04"
+                        },
+                        {
+                            "name": "Delicias de Concepción",
+                            "code": "05"
+                        },
+                        {
+                            "name": "El Divisadero",
+                            "code": "06"
+                        },
+                        {
+                            "name": "Gualococti",
+                            "code": "08"
+                        },
+                        {
+                            "name": "Guatajiagua",
+                            "code": "09"
+                        },
+                        {
+                            "name": "Jocoro",
+                            "code": "12"
+                        },
+                        {
+                            "name": "Lolotiquillo",
+                            "code": "13"
+                        },
+                        {
+                            "name": "Osicala",
+                            "code": "15"
+                        },
+                        {
+                            "name": "San Carlos",
+                            "code": "17"
+                        },
+                        {
+                            "name": "San Francisco Gotera",
+                            "code": "19"
+                        },
+                        {
+                            "name": "San Simón",
+                            "code": "21"
+                        },
+                        {
+                            "name": "Sensembra",
+                            "code": "22"
+                        },
+                        {
+                            "name": "Sociedad",
+                            "code": "23"
+                        },
+                        {
+                            "name": "Yamabal",
+                            "code": "25"
+                        },
+                        {
+                            "name": "Yoloaiquín",
+                            "code": "26"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "La Unión",
+            "code": "14",
+            "iso": "SV-UN",
+            "municipalities": [
+                {
+                    "name": "La Unión Norte",
+                    "code": 19,
+                    "districts": [
+                        {
+                            "name": "Anamorós",
+                            "code": "01"
+                        },
+                        {
+                            "name": "Bolívar",
+                            "code": "02"
+                        },
+                        {
+                            "name": "Concepción de Oriente",
+                            "code": "03"
+                        },
+                        {
+                            "name": "El Sauce",
+                            "code": "06"
+                        },
+                        {
+                            "name": "Lislique",
+                            "code": "09"
+                        },
+                        {
+                            "name": "Nueva Esparta",
+                            "code": "11"
+                        },
+                        {
+                            "name": "Pasaquina",
+                            "code": "12"
+                        },
+                        {
+                            "name": "Polorós",
+                            "code": "13"
+                        },
+                        {
+                            "name": "San José",
+                            "code": "15"
+                        },
+                        {
+                            "name": "Santa Rosa de Lima",
+                            "code": "16"
+                        }
+                    ]
+                },
+                {
+                    "name": "La Unión Sur",
+                    "code": 20,
+                    "districts": [
+                        {
+                            "name": "Conchagua",
+                            "code": "04"
+                        },
+                        {
+                            "name": "El Carmen",
+                            "code": "05"
+                        },
+                        {
+                            "name": "Intipucá",
+                            "code": "07"
+                        },
+                        {
+                            "name": "La Unión",
+                            "code": "08"
+                        },
+                        {
+                            "name": "Meanguera del Golfo",
+                            "code": "10"
+                        },
+                        {
+                            "name": "San Alejo",
+                            "code": "14"
+                        },
+                        {
+                            "name": "Yayantique",
+                            "code": "17"
+                        },
+                        {
+                            "name": "Yucuaiquín",
+                            "code": "18"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

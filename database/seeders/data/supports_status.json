@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Pendiente",
+        "badge": "grey-9"
+    },
+    {
+        "name": "Asignado",
+        "badge": "blue-9"
+    },
+    {
+        "name": "Finalizado",
+        "badge": "green-10"
+    },
+    {
+        "name": "Cancelado",
+        "badge": "red-10"
+    },
+    {
+        "name": "Con Observación",
+        "badge": "teal-9"
+    }
+]
