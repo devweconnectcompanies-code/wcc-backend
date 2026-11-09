@@ -52,11 +52,14 @@ use Illuminate\Database\Eloquent\SoftDeletes;
  * @property-read int|null $internet_devices_count
  * @property-read \Illuminate\Database\Eloquent\Collection<int, \App\Models\Services\ServiceIptvEquipmentModel> $iptv_devices
  * @property-read int|null $iptv_devices_count
+ * @property-read SupportModel|null $last_support
  * @property-read MunicipalityModel|null $municipality
  * @property-read NodeModel|null $node
  * @property-read \Illuminate\Database\Eloquent\Collection<int, \App\Models\Services\ServiceSoldDeviceModel> $sold_devices
  * @property-read int|null $sold_devices_count
  * @property-read StateModel|null $state
+ * @property-read \Illuminate\Database\Eloquent\Collection<int, SupportModel> $supports
+ * @property-read int|null $supports_count
  * @property-read TechnicianModel|null $technician
  * @property-read \App\Models\Services\ServiceUninstallationModel|null $uninstallation
  * @method static \Illuminate\Database\Eloquent\Builder<static>|ServiceModel activeOrUninstalledInPeriod(\App\Models\Billing\PeriodModel $period)
